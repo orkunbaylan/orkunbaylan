@@ -20,6 +20,7 @@ bordroya hazır veri üretir.
   bordro ve icmal (Excel), maaş pusulası, departman maliyeti, performans ısı haritası
 - **Vardiya ve planlama:** çalışma grupları, geç kalma/erken çıkma toleransları, gece aralığı, vardiya şablonları ve molalar
 - **Canlı operasyon merkezi:** günün anlık durumu tek ekranda; kullanıcı yetkisine göre ekranlar
+- 19 dakikalık [eğitim videosu](https://www.youtube.com/watch?v=qMVOepinf0I)
 
 #### Perplus Öğrenci: okul giriş-çıkış ve veli bildirim sistemi · [perplusokul.com](https://perplusokul.com) · [kılavuz](https://perplusokul.com/docs)
 Öğrenci okula girdiğinde ya da çıktığında veliye anında bildirim gider; okul yönetimi tüm hareketleri panelden izler.
@@ -74,6 +75,8 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 C# · .NET · ASP.NET Core · Blazor Server · Windows Forms · EF Core · PostgreSQL · SQL Server · REST API · WebSocket ·
 TCP/UDP cihaz protokolleri · Clean Architecture · React Native (Expo) · Nginx · Cloudflare · Inno Setup
 
+🎬 Eğitim videoları: [YouTube · Geliştirdiğim Yazılımlar](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
+
 Kaynak kodları ticari olduğu için depolarım gizli. Programları denemek ya da lisans almak için
 [LinkedIn](https://www.linkedin.com/in/orkunbaylan) veya orkunbaylan1@gmail.com üzerinden yazabilirsiniz.
 
@@ -104,6 +107,8 @@ QR-Bilet (QR ticket sales and turnstile validation).
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
 outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
+
+🎬 Training videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
 My repositories are private because the code is commercial. Feel free to reach out on
 [LinkedIn](https://www.linkedin.com/in/orkunbaylan) to try my programs or get a license.
