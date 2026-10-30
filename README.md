@@ -1,3 +1,5 @@
+<img src="img/kapak.png" alt="Software built end to end, from idea to production — web · desktop · mobile" width="100%">
+
 ### Merhaba, ben Orkun 👋
 
 Full-stack yazılım geliştiriciyim. İşletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren web, masaüstü ve
