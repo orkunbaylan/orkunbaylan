@@ -1,7 +1,7 @@
 ### Merhaba, ben Orkun 👋
 
-Bağımsız yazılım geliştiriciyim. İşletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren masaüstü ve web
-yazılımları geliştiriyorum. Perplus markasıyla dağıtılan yazılımların geliştiricisiyim.
+Full-stack yazılım geliştiriciyim. İşletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren web, masaüstü ve
+mobil (iOS/Android) yazılımlar geliştiriyorum. Perplus markasıyla dağıtılan yazılımların geliştiricisiyim.
 
 İşimi farklı kılan şey, yazılımın sahadaki donanımla ve muhasebe sistemleriyle kesintisiz çalışması: turnike ve kart
 okuyucu panelleri, ZKTeco cihazları; Logo, Mikro, Zirve, Paraşüt gibi ERP entegrasyonları. Ürünleri uçtan uca tek
@@ -35,6 +35,7 @@ Panel merkezli tasarım: geçiş kararını panel verir, internet kesilse de kar
 - Kişiler (Excel/CSV ile toplu aktarım), kişi başına birden fazla kart, son kullanma tarihi ve kontör, ziyaretçiler, gruplar
 - Kapılar, zaman dilimleri, tatil takvimi ve erişim grupları
 - Kart panele yazılır ve geri okunarak doğrulanır; köprü çevrimdışıyken değişiklikler sıraya alınır
+- iOS ve Android mobil uygulaması (React Native / Expo, TypeScript)
 - Reddedilen geçişler için anlık bildirim, şube ve köprü yönetimi, kişi portalı, raporlar
 
 ---
@@ -72,8 +73,11 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 
 ### 🧰 Teknolojiler
 
-C# · .NET · ASP.NET Core · Blazor Server · Windows Forms · EF Core · PostgreSQL · SQL Server · REST API · WebSocket ·
-TCP/UDP cihaz protokolleri · Clean Architecture · React Native (Expo) · Nginx · Cloudflare · Inno Setup
+**Backend:** C# · .NET · ASP.NET Core · EF Core · REST API · WebSocket · TCP/UDP cihaz protokolleri · Clean Architecture · xUnit  
+**Arayüz:** Blazor Server · Windows Forms · HTML · CSS · JavaScript · TypeScript  
+**Mobil:** React Native (Expo) · TypeScript · iOS · Android  
+**Veritabanı:** PostgreSQL · SQL Server · SQLite  
+**Altyapı:** Nginx · Cloudflare · Inno Setup · Git
 
 🎬 Eğitim videoları: [YouTube · Geliştirdiğim Yazılımlar](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
@@ -85,7 +89,7 @@ Kaynak kodları ticari olduğu için depolarım gizli. Programları denemek ya d
 <details>
 <summary>🇬🇧 English</summary>
 
-I'm Orkun Baylan, an independent developer building desktop and web software that automates personnel, access and
+I'm Orkun Baylan, a full-stack developer building web, desktop and mobile (iOS/Android) software that automates personnel, access and
 tracking operations for businesses. I'm the developer of the software distributed under the Perplus brand, and I build
 each product end to end: database, UI, device communication, installer, licensing and server.
 
@@ -99,11 +103,15 @@ systems (Logo, Mikro, Zirve, Paraşüt).
 - **Perplus Öğrenci** ([perplusokul.com](https://perplusokul.com)): school entry-exit system that notifies parents
   instantly; school, platform and parent panels plus a React Native (Expo) parent app.
 - **PerplusAccess** ([perplusaccess.com](https://perplusaccess.com), in development): panel-centric access control
-  that keeps working offline; people, cards, visitors, doors, time zones, access groups, branches and real-time alerts.
+  that keeps working offline; people, cards, visitors, doors, time zones, access groups, branches, real-time alerts
+  and an iOS/Android app (React Native / Expo, TypeScript).
 
 **Desktop** (Windows Forms): PDKS with ERP export, Entry-Exit Tracking, Student Tracking (anti-passback, SMS to
 parents, payments), Dormitory Tracking (multi-user SQL Server edition), KafeTakip (prepaid card café sales) and
 QR-Bilet (QR ticket sales and turnstile validation).
+
+**Tech stack:** C#, .NET, ASP.NET Core, Blazor, Windows Forms, EF Core, TypeScript, JavaScript, React Native (Expo),
+HTML, CSS, PostgreSQL, SQL Server, SQLite, xUnit, Nginx, Cloudflare, Git.
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
 outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
