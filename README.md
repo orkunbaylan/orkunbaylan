@@ -81,6 +81,10 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 | --- | --- |
 | <img src="img/perplusaccess-kisi-profili.jpg" width="420"> | <img src="img/perplusaccess-gunluk-rapor.jpg" width="420"> |
 
+| PerplusAccess: paneller ve köprü bağlantısı |
+| --- |
+| <img src="img/perplusaccess-paneller.jpg" width="420"> |
+
 | PDKS: aylık puantaj | PDKS: giriş-çıkış |
 | --- | --- |
 | <img src="img/pdks-aylik-puantaj.jpg" width="420"> | <img src="img/pdks-giris-cikis.jpg" width="420"> |
