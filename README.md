@@ -58,6 +58,8 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 - **Panel Köprü Servisi:** bulut platformlarının müşterinin yerel ağındaki panellerle konuşması için Windows servisi.
   UDP ile cihaz bulma, TCP ile kart/okuyucu/ayar komutları; buluta dışa doğru WebSocket bağlantısı sayesinde port açmaya
   gerek yok; anahtarla kimlik doğrulama, otomatik yeniden bağlanma ve bir ayar arayüzü.
+- **Lisans altyapısı:** bilgisayara bağlı, süreli ve kriptografik olarak imzalı lisans anahtarları; müşteri ve bayi
+  kayıtları, lisans iptali, dosya bütünlüğü ve kurcalama koruması.
 
 ---
 
@@ -142,7 +144,7 @@ QR-Bilet (QR ticket sales and turnstile validation).
 HTML, CSS, PostgreSQL, SQL Server, SQLite, xUnit, Nginx, Cloudflare, Git.
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
-outbound WebSocket (no port forwarding).
+outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
 
 🎬 Training videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
