@@ -73,6 +73,26 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 | --- | --- |
 | <img src="img/ogrenci-canli-giris-cikis.png" width="420"> | <img src="img/ogrenci-veli-uygulamasi.png" width="200"> |
 
+| PerplusAccess: genel bakış | PerplusAccess: canlı geçişler |
+| --- | --- |
+| <img src="img/perplusaccess-genel-bakis.jpg" width="420"> | <img src="img/perplusaccess-canli-gecisler.jpg" width="420"> |
+
+| PDKS: aylık puantaj | PDKS: giriş-çıkış |
+| --- | --- |
+| <img src="img/pdks-aylik-puantaj.jpg" width="420"> | <img src="img/pdks-giris-cikis.jpg" width="420"> |
+
+| Giriş-Çıkış Takip: personel | Giriş-Çıkış Takip: rapor |
+| --- | --- |
+| <img src="img/giris-cikis-personel.jpg" width="420"> | <img src="img/giris-cikis-rapor.jpg" width="420"> |
+
+| Öğrenci Takip: öğrenci listesi | Öğrenci Takip: giriş-çıkış raporu |
+| --- | --- |
+| <img src="img/ogrenci-takip-liste.jpg" width="420"> | <img src="img/ogrenci-takip-rapor.jpg" width="420"> |
+
+| KafeTakip: sipariş ekranı | QR-Bilet: satış ve bilet listesi |
+| --- | --- |
+| <img src="img/kafetakip-siparis.jpg" width="420"> | <img src="img/qr-bilet-satis.jpg" width="420"> |
+
 ### 🧰 Teknolojiler
 
 **Backend:** C# · .NET · ASP.NET Core · EF Core · REST API · WebSocket · TCP/UDP cihaz protokolleri · Clean Architecture · xUnit  
