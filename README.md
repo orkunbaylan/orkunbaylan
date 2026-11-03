@@ -32,7 +32,7 @@ bordroya hazır veri üretir.
 - **Cihaz altyapısı:** WebSocket ile çalışan cihazlar (ZKTeco vb.) ve yerel köprü üzerinden TCP turnike panelleri
 - Canlıda: 15 dakikalık [eğitim videosu](https://www.youtube.com/watch?v=JE4zwpKfh94)
 
-#### PerplusAccess: web tabanlı geçiş kontrol platformu · [perplusaccess.com](https://perplusaccess.com) · *geliştiriliyor*
+#### PerplusAccess: web tabanlı geçiş kontrol platformu · [perplusaccess.com](https://perplusaccess.com)
 Panel merkezli tasarım: geçiş kararını panel verir, internet kesilse de kartla geçiş sürer.
 - Kişiler (Excel/CSV ile toplu aktarım), kişi başına birden fazla kart, son kullanma tarihi ve kontör, ziyaretçiler, gruplar
 - Kapılar, zaman dilimleri, tatil takvimi ve erişim grupları
@@ -132,7 +132,7 @@ systems (Logo, Mikro, Zirve, Paraşüt).
   payslips, department cost and a live operations dashboard.
 - **Perplus Öğrenci** ([perplusokul.com](https://perplusokul.com)): school entry-exit system that notifies parents
   instantly; school, platform and parent panels plus a React Native (Expo) parent app.
-- **PerplusAccess** ([perplusaccess.com](https://perplusaccess.com), in development): panel-centric access control
+- **PerplusAccess** ([perplusaccess.com](https://perplusaccess.com)): panel-centric access control
   that keeps working offline; people, cards, visitors, doors, time zones, access groups, branches, real-time alerts
   and an iOS/Android app (React Native / Expo, TypeScript).
 
