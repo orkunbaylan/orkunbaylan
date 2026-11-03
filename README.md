@@ -2,18 +2,37 @@
 
 ### Merhaba, ben Orkun 👋
 
-Full-stack yazılım geliştiriciyim. İşletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren web, masaüstü ve
-mobil (iOS/Android) yazılımlar geliştiriyorum. Perplus markasıyla dağıtılan yazılımların geliştiricisiyim.
+**.NET yazılım geliştiriciyim** · C# · ASP.NET Core · Blazor · SQL Server · PostgreSQL
+
+2017'den beri geçiş kontrol ve PDKS sektöründeyim: bu yazılımları geliştirdim, test ettim, sahada kurdum ve destekledim.
+Bugün aynı tecrübeyle işletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren web, masaüstü ve mobil
+yazılımları baştan sona kendim geliştiriyorum. Perplus markasıyla dağıtılan yazılımların geliştiricisiyim.
 
 İşimi farklı kılan şey, yazılımın sahadaki donanımla ve muhasebe sistemleriyle kesintisiz çalışması: turnike ve kart
-okuyucu panelleri, ZKTeco cihazları; Logo, Mikro, Zirve, Paraşüt gibi ERP entegrasyonları. Ürünleri uçtan uca tek
-başıma geliştiriyorum: veritabanı tasarımı, arayüz, cihaz haberleşmesi, kurulum, lisanslama ve sunucu.
+okuyucu panelleri, ZKTeco cihazları; Logo, Mikro, Zirve, Paraşüt gibi ERP entegrasyonları. Veritabanı tasarımı, arayüz,
+cihaz haberleşmesi, kurulum, lisanslama ve sunucu tarafının tamamı bende.
+
+📬 **.NET rollerine ve serbest projelere açığım** (İstanbul veya uzaktan):
+[LinkedIn](https://www.linkedin.com/in/orkunbaylan) · orkunbaylan1@gmail.com
+
+---
+
+### 🧭 Deneyim
+
+| Dönem | Rol | Nerede |
+| --- | --- | --- |
+| Mar 2026 – devam | **Bağımsız Yazılım Geliştirici** | Serbest çalışan |
+| Tem 2022 – Mar 2026 | **Firma Müdürü** | A System Geçiş Güvenlik Sistemleri |
+| Oca 2020 – Haz 2022 | **Yazılım Geliştirme ve Destek Müdürü** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
+| Oca 2017 – Ara 2019 | **Yazılım ve Destek Sorumlusu** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
+
+**Eğitim:** Bilgisayar Programcılığı (Anadolu Üniversitesi) · **Kurslar:** C# Programlama (yazılım24, 2017), SQL Veritabanı (Enstitü İstanbul İSMEK, 2019)
 
 ---
 
 ### 🌐 Web / SaaS
 
-#### PerplusWeb: PDKS, puantaj ve bordro platformu · [perpluspdks.com](https://perpluspdks.com) · [kılavuz](https://perpluspdks.com/docs)
+#### PerplusWeb: PDKS, puantaj ve bordro platformu (2026) · [perpluspdks.com](https://perpluspdks.com) · [kılavuz](https://perpluspdks.com/docs)
 Kart okuyucu ve turnikelerden gelen giriş-çıkışları toplar, vardiya ve mesai kurallarına göre puantajı hesaplar,
 bordroya hazır veri üretir.
 - **Personel yönetimi:** özlük bilgileri, izin ve hakediş, ek kazanç ve kesintiler, tarihli maaş geçmişi; tanınmayan
@@ -24,7 +43,7 @@ bordroya hazır veri üretir.
 - **Canlı operasyon merkezi:** günün anlık durumu tek ekranda; kullanıcı yetkisine göre ekranlar
 - 19 dakikalık [eğitim videosu](https://www.youtube.com/watch?v=qMVOepinf0I)
 
-#### Perplus Öğrenci: okul giriş-çıkış ve veli bildirim sistemi · [perplusokul.com](https://perplusokul.com) · [kılavuz](https://perplusokul.com/docs)
+#### Perplus Öğrenci: okul giriş-çıkış ve veli bildirim sistemi (2026) · [perplusokul.com](https://perplusokul.com) · [kılavuz](https://perplusokul.com/docs)
 Öğrenci okula girdiğinde ya da çıktığında veliye anında bildirim gider; okul yönetimi tüm hareketleri panelden izler.
 - **Üç panel:** platform yönetimi, okul paneli, veli paneli (PWA) ve veli mobil uygulaması (React Native / Expo)
 - **Okul paneli:** genel bakış ("şu an içeride", henüz gelmeyenler), canlı giriş-çıkış, devamsızlık bildirimi, ders
@@ -32,7 +51,7 @@ bordroya hazır veri üretir.
 - **Cihaz altyapısı:** WebSocket ile çalışan cihazlar (ZKTeco vb.) ve yerel köprü üzerinden TCP turnike panelleri
 - Canlıda: 15 dakikalık [eğitim videosu](https://www.youtube.com/watch?v=JE4zwpKfh94)
 
-#### PerplusAccess: web tabanlı geçiş kontrol platformu · [perplusaccess.com](https://perplusaccess.com)
+#### PerplusAccess: web tabanlı geçiş kontrol platformu (2026) · [perplusaccess.com](https://perplusaccess.com)
 Panel merkezli tasarım: geçiş kararını panel verir, internet kesilse de kartla geçiş sürer.
 - Kişiler (Excel/CSV ile toplu aktarım), kişi başına birden fazla kart, son kullanma tarihi ve kontör, ziyaretçiler, gruplar
 - Kapılar, zaman dilimleri, tatil takvimi ve erişim grupları
@@ -45,14 +64,14 @@ Panel merkezli tasarım: geçiş kararını panel verir, internet kesilse de kar
 ### 🖥️ Masaüstü programları
 Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etkinleştirme.
 
-| Program | Ne yapar |
-| --- | --- |
-| **PDKS** | ZKTeco ve kart okuyuculardan kayıt alır, puantajı hesaplar; Logo, Mikro, Zirve ve Paraşüt'e aktarır |
-| **Giriş-Çıkış Takip** | Turnike ve kart okuyucu panellerinden geçişleri toplar; kim ne zaman girdi-çıktı anlık izlenir ve raporlanır |
-| **Öğrenci Takip** | Okul, kurs ve yurtlar için: öğrenci kaydı ve fotoğrafı, canlı giriş-çıkış, anti-passback, Netgsm ile veliye SMS, borç ve ödeme takibi, Excel raporları |
-| **Yurt Takip** | Öğrenci Takip'in SQL Server tabanlı çok kullanıcılı ağ sürümü; blok, kat ve kapasite yönetimi; sunucu/istemci kurulumu, eksik SQL Server ve .NET'i kurulumda indirir |
-| **KafeTakip** | Kafeterya ve kantinler için kartlı (ön ödemeli) satış: kart tanımlama, bakiye yükleme, hızlı sipariş ekranı, iade/iptal, ciro raporları |
-| **QR-Bilet** | Bilet türüne göre satış ve QR kodlu bilet; girişte QR okuyuculu turnike doğrular; yerel ağda panel bulma, röle ve saat ayarları |
+| Program | Başlangıç | Ne yapar |
+| --- | --- | --- |
+| **PDKS** | 2021 | ZKTeco ve kart okuyuculardan kayıt alır, puantajı hesaplar; Logo, Mikro, Zirve ve Paraşüt'e aktarır |
+| **Giriş-Çıkış Takip** | 2022 | Turnike ve kart okuyucu panellerinden geçişleri toplar; kim ne zaman girdi-çıktı anlık izlenir ve raporlanır |
+| **Öğrenci Takip** | 2022 | Okul, kurs ve yurtlar için: öğrenci kaydı ve fotoğrafı, canlı giriş-çıkış, anti-passback, Netgsm ile veliye SMS, borç ve ödeme takibi, Excel raporları |
+| **Yurt Takip** | 2024 | Öğrenci Takip'in SQL Server tabanlı çok kullanıcılı ağ sürümü; blok, kat ve kapasite yönetimi; sunucu/istemci kurulumu, eksik SQL Server ve .NET'i kurulumda indirir |
+| **KafeTakip** | 2023 | Kafeterya ve kantinler için kartlı (ön ödemeli) satış: kart tanımlama, bakiye yükleme, hızlı sipariş ekranı, iade/iptal, ciro raporları |
+| **QR-Bilet** | 2024 | Bilet türüne göre satış ve QR kodlu bilet; girişte QR okuyuculu turnike doğrular; yerel ağda panel bulma, röle ve saat ayarları |
 
 ### 🔧 Altyapı ve araçlar
 - **Panel Köprü Servisi:** bulut platformlarının müşterinin yerel ağındaki panellerle konuşması için Windows servisi.
@@ -103,15 +122,16 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 
 ### 🧰 Teknolojiler
 
-**Backend:** C# · .NET · ASP.NET Core · EF Core · REST API · WebSocket · TCP/UDP cihaz protokolleri · Clean Architecture · xUnit  
-**Arayüz:** Blazor Server · Windows Forms · HTML · CSS · JavaScript · TypeScript  
+**Backend:** C# · .NET · ASP.NET Core · Blazor Server · EF Core · REST API · WebSocket · TCP/UDP cihaz protokolleri · Clean Architecture · xUnit  
+**Arayüz:** Windows Forms · HTML · CSS · JavaScript · TypeScript  
 **Mobil:** React Native (Expo) · TypeScript · iOS · Android  
-**Veritabanı:** PostgreSQL · SQL Server · SQLite  
+**Veritabanı:** SQL Server · PostgreSQL · SQLite  
 **Altyapı:** Nginx · Cloudflare · Inno Setup · Git
 
 🎬 Eğitim videoları: [YouTube · Geliştirdiğim Yazılımlar](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
-Kaynak kodları ticari olduğu için depolarım gizli. Programları denemek ya da lisans almak için
+Kaynak kodları ticari olduğu için depolarım gizli. Masaüstü programlarını GitHub'ı kullanmaya başlamadan önce geliştirdim;
+depolar sonradan yüklendiği için depo tarihleri yenidir. Programları denemek ya da lisans almak için
 [LinkedIn](https://www.linkedin.com/in/orkunbaylan) veya orkunbaylan1@gmail.com üzerinden yazabilirsiniz.
 
 ---
@@ -119,12 +139,19 @@ Kaynak kodları ticari olduğu için depolarım gizli. Programları denemek ya d
 <details>
 <summary>🇬🇧 English</summary>
 
-I'm Orkun Baylan, a full-stack developer building web, desktop and mobile (iOS/Android) software that automates personnel, access and
+I'm Orkun Baylan, a .NET software developer (C#, ASP.NET Core, Blazor, SQL Server, PostgreSQL). I have been in the access
+control and time & attendance industry since 2017, and today I build web, desktop and mobile software that automates personnel, access and
 tracking operations for businesses. I'm the developer of the software distributed under the Perplus brand, and I build
 each product end to end: database, UI, device communication, installer, licensing and server.
 
 My specialty is making software talk to hardware (turnstiles, card-reader panels, ZKTeco devices) and to accounting/ERP
 systems (Logo, Mikro, Zirve, Paraşüt).
+
+**Experience**
+- Independent Software Developer, self-employed (Mar 2026 – present)
+- General Manager, A System (Jul 2022 – Mar 2026)
+- Software Development & Support Manager, Önder Zaman (Jan 2020 – Jun 2022)
+- Software & Support Specialist, Önder Zaman (Jan 2017 – Dec 2019)
 
 **Web / SaaS** (.NET, Blazor Server, PostgreSQL)
 - **PerplusWeb** ([perpluspdks.com](https://perpluspdks.com)): time & attendance, timesheet and payroll platform:
@@ -140,15 +167,16 @@ systems (Logo, Mikro, Zirve, Paraşüt).
 parents, payments), Dormitory Tracking (multi-user SQL Server edition), KafeTakip (prepaid card café sales) and
 QR-Bilet (QR ticket sales and turnstile validation).
 
-**Tech stack:** C#, .NET, ASP.NET Core, Blazor, Windows Forms, EF Core, TypeScript, JavaScript, React Native (Expo),
-HTML, CSS, PostgreSQL, SQL Server, SQLite, xUnit, Nginx, Cloudflare, Git.
+**Tech stack:** C#, .NET, ASP.NET Core, Blazor, Windows Forms, EF Core, SQL Server, PostgreSQL, SQLite, TypeScript,
+JavaScript, React Native (Expo), HTML, CSS, xUnit, Nginx, Cloudflare, Git.
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
 outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
 
 🎬 Training videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
-My repositories are private because the code is commercial. Feel free to reach out on
+My repositories are private because the code is commercial. I built the desktop programs before I started using GitHub,
+so repository dates are recent. I'm open to .NET roles and freelance projects (Istanbul or remote). Reach out on
 [LinkedIn](https://www.linkedin.com/in/orkunbaylan) to try my programs or get a license.
 
 </details>
