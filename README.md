@@ -125,8 +125,9 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 **Backend:** C# · .NET · ASP.NET Core · ASP.NET Web API · Blazor Server · EF Core · LINQ · REST API · SignalR · WebSocket · TCP/UDP cihaz protokolleri · JWT · OOP · Dependency Injection · Clean Architecture · xUnit  
 **Arayüz:** Windows Forms · HTML · CSS · JavaScript · TypeScript  
 **Mobil:** React Native (Expo) · TypeScript · iOS · Android  
-**Veritabanı:** SQL Server (T-SQL) · PostgreSQL · SQLite  
-**Altyapı:** Nginx · Cloudflare · Inno Setup · Git · Visual Studio
+**Veritabanı:** SQL Server (T-SQL) · PostgreSQL · SQLite · MySQL  
+**Altyapı:** Nginx · Cloudflare · Inno Setup · Git · Visual Studio  
+**Yönetim:** Ekip liderliği · Teknik liderlik · Genel yönetim · Yazılım ürün yönetimi · Proje yönetimi
 
 🎬 Eğitim videoları: [YouTube · Geliştirdiğim Yazılımlar](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
@@ -168,8 +169,10 @@ parents, payments), Dormitory Tracking (multi-user SQL Server edition), KafeTaki
 QR-Bilet (QR ticket sales and turnstile validation).
 
 **Tech stack:** C#, .NET, ASP.NET Core, ASP.NET Web API, Blazor, Windows Forms, EF Core, LINQ, SignalR, JWT, OOP,
-Dependency Injection, SQL Server (T-SQL), PostgreSQL, SQLite, TypeScript,
+Dependency Injection, SQL Server (T-SQL), PostgreSQL, SQLite, MySQL, TypeScript,
 JavaScript, React Native (Expo), HTML, CSS, xUnit, Nginx, Cloudflare, Git, Visual Studio.
+
+**Management:** Team leadership, technical leadership, general management, software product management, project management.
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
 outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
