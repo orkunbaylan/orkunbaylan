@@ -122,11 +122,11 @@ Windows Forms ile geliştirildi; Inno Setup kurulumu ve lisans anahtarıyla etki
 
 ### 🧰 Teknolojiler
 
-**Backend:** C# · .NET · ASP.NET Core · Blazor Server · EF Core · REST API · WebSocket · TCP/UDP cihaz protokolleri · Clean Architecture · xUnit  
+**Backend:** C# · .NET · ASP.NET Core · ASP.NET Web API · Blazor Server · EF Core · LINQ · REST API · SignalR · WebSocket · TCP/UDP cihaz protokolleri · JWT · OOP · Dependency Injection · Clean Architecture · xUnit  
 **Arayüz:** Windows Forms · HTML · CSS · JavaScript · TypeScript  
 **Mobil:** React Native (Expo) · TypeScript · iOS · Android  
-**Veritabanı:** SQL Server · PostgreSQL · SQLite  
-**Altyapı:** Nginx · Cloudflare · Inno Setup · Git
+**Veritabanı:** SQL Server (T-SQL) · PostgreSQL · SQLite  
+**Altyapı:** Nginx · Cloudflare · Inno Setup · Git · Visual Studio
 
 🎬 Eğitim videoları: [YouTube · Geliştirdiğim Yazılımlar](https://www.youtube.com/playlist?list=PLDf1-6sOXCEU)
 
@@ -167,8 +167,9 @@ systems (Logo, Mikro, Zirve, Paraşüt).
 parents, payments), Dormitory Tracking (multi-user SQL Server edition), KafeTakip (prepaid card café sales) and
 QR-Bilet (QR ticket sales and turnstile validation).
 
-**Tech stack:** C#, .NET, ASP.NET Core, Blazor, Windows Forms, EF Core, SQL Server, PostgreSQL, SQLite, TypeScript,
-JavaScript, React Native (Expo), HTML, CSS, xUnit, Nginx, Cloudflare, Git.
+**Tech stack:** C#, .NET, ASP.NET Core, ASP.NET Web API, Blazor, Windows Forms, EF Core, LINQ, SignalR, JWT, OOP,
+Dependency Injection, SQL Server (T-SQL), PostgreSQL, SQLite, TypeScript,
+JavaScript, React Native (Expo), HTML, CSS, xUnit, Nginx, Cloudflare, Git, Visual Studio.
 
 **Infrastructure:** a Windows bridge service that connects cloud platforms to on-premise panels over UDP/TCP with an
 outbound WebSocket (no port forwarding), and a cryptographically signed, machine-bound licensing system.
