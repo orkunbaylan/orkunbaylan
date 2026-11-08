@@ -26,6 +26,8 @@ cihaz haberleşmesi, kurulum, lisanslama ve sunucu tarafının tamamı bende.
 | Oca 2020 – Haz 2022 | **Kıdemli Yazılım Geliştirme ve Destek Uzmanı** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
 | Oca 2017 – Ara 2019 | **Yazılım ve Destek Uzmanı** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
 
+İki firma da geçiş kontrol sistemlerinin montajını, teknik servisini ve yazılımını bir arada yapıyordu. Yazılım geliştirmenin yanında road blocker, bariyer, turnike, plaka tanıma, kapı geçiş, kart okuyucu, PDKS ve biyometrik cihazların montajında, kablolamasında ve arıza onarımında da sahadaydım.
+
 **Eğitim:** Bilgisayar Programcılığı (Anadolu Üniversitesi) · **Kurslar:** C# Programlama (yazılım24, 2017), SQL Veritabanı (Enstitü İstanbul İSMEK, 2019)
 
 ---
@@ -153,6 +155,8 @@ systems (Logo, Mikro, Zirve, Paraşüt).
 - Software & Operations Lead, A System (Jul 2022 – Mar 2026)
 - Senior Software Development & Support Specialist, Önder Zaman (Jan 2020 – Jun 2022)
 - Software & Support Specialist, Önder Zaman (Jan 2017 – Dec 2019)
+
+Both companies handled installation, technical service and software for access control systems together. Alongside software development, I worked in the field on installing, cabling and repairing road blockers, barriers, turnstiles, licence plate recognition, door access, card readers, time & attendance and biometric devices.
 
 **Web / SaaS** (.NET, Blazor Server, PostgreSQL)
 - **PerplusWeb** ([perpluspdks.com](https://perpluspdks.com)): time & attendance, timesheet and payroll platform:
