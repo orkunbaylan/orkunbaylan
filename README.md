@@ -22,9 +22,9 @@ cihaz haberleşmesi, kurulum, lisanslama ve sunucu tarafının tamamı bende.
 | Dönem | Rol | Nerede |
 | --- | --- | --- |
 | Mar 2026 – devam | **Bağımsız Yazılım Geliştirici** | Serbest çalışan |
-| Tem 2022 – Mar 2026 | **Firma Müdürü** | A System Geçiş Güvenlik Sistemleri |
-| Oca 2020 – Haz 2022 | **Yazılım Geliştirme ve Destek Müdürü** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
-| Oca 2017 – Ara 2019 | **Yazılım ve Destek Sorumlusu** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
+| Tem 2022 – Mar 2026 | **Yazılım ve Operasyon Sorumlusu** | A System Geçiş Güvenlik Sistemleri |
+| Oca 2020 – Haz 2022 | **Kıdemli Yazılım Geliştirme ve Destek Uzmanı** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
+| Oca 2017 – Ara 2019 | **Yazılım ve Destek Uzmanı** | Önder Zaman Kontrol ve Geçiş Güvenlik Sistemleri |
 
 **Eğitim:** Bilgisayar Programcılığı (Anadolu Üniversitesi) · **Kurslar:** C# Programlama (yazılım24, 2017), SQL Veritabanı (Enstitü İstanbul İSMEK, 2019)
 
@@ -150,8 +150,8 @@ systems (Logo, Mikro, Zirve, Paraşüt).
 
 **Experience**
 - Independent Software Developer, self-employed (Mar 2026 – present)
-- General Manager, A System (Jul 2022 – Mar 2026)
-- Software Development & Support Manager, Önder Zaman (Jan 2020 – Jun 2022)
+- Software & Operations Lead, A System (Jul 2022 – Mar 2026)
+- Senior Software Development & Support Specialist, Önder Zaman (Jan 2020 – Jun 2022)
 - Software & Support Specialist, Önder Zaman (Jan 2017 – Dec 2019)
 
 **Web / SaaS** (.NET, Blazor Server, PostgreSQL)
