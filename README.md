@@ -4,6 +4,7 @@
 
 **.NET yazılım geliştiriciyim** · C# · ASP.NET Core · Blazor · SQL Server · PostgreSQL
 
+Yazdığım yazılımın turnike, kart okuyucu ve ERP sistemleriyle nasıl konuştuğunu sahada da biliyorum.
 2017'den beri geçiş kontrol ve PDKS sektöründeyim: bu yazılımları geliştirdim, test ettim, sahada kurdum ve destekledim.
 Bugün aynı tecrübeyle işletmelerin personel, geçiş ve takip süreçlerini otomatikleştiren web, masaüstü ve mobil
 yazılımları baştan sona kendim geliştiriyorum. Perplus markasıyla dağıtılan yazılımların geliştiricisiyim.
@@ -142,7 +143,8 @@ depolar sonradan yüklendiği için depo tarihleri yenidir. Programları denemek
 <details>
 <summary>🇬🇧 English</summary>
 
-I'm Orkun Baylan, a .NET software developer (C#, ASP.NET Core, Blazor, SQL Server, PostgreSQL). I have been in the access
+I'm Orkun Baylan, a .NET software developer (C#, ASP.NET Core, Blazor, SQL Server, PostgreSQL) who also knows, from the field, how
+software talks to turnstiles, card readers and ERP systems. I have been in the access
 control and time & attendance industry since 2017, and today I build web, desktop and mobile software that automates personnel, access and
 tracking operations for businesses. I'm the developer of the software distributed under the Perplus brand, and I build
 each product end to end: database, UI, device communication, installer, licensing and server.
